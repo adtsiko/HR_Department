@@ -5,4 +5,5 @@
 ![](images/pandas_logo.png)
 ![](images/python_logo.jpg)
 ![](images/sklearn.svg)
-![](images/Tensorflow_logo.svg.png)
+
+
