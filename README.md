@@ -4,11 +4,7 @@ This project focus is on predicting whether an employee is likely leave or stay 
 
 The graphs code can be viewed in Data_prep folder in the pre_process.py module
 
-
-
-
-
-
+Dataset from  6 real Business Problems course Dr. Ryan Ahmed
 
 
 ![](images/matplotlib_logo.png)
